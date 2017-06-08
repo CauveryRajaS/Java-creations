@@ -10,7 +10,7 @@ public class IntegerEqualsIndex
      boolean matches=false;
      for(int index=0;index<size;index++)
      {
-         integers[i]=input.nextInt();
+         integers[index]=input.nextInt();
      } 
      for(int index=0;index<size;index++)
      {    
